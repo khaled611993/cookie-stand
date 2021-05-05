@@ -1,0 +1,37 @@
+header {
+    background-color: rgb(254, 255, 222);
+    height: 100px;
+}
+
+header {
+    display: block;
+}
+header img{
+    width: 400px;
+    height: 90px;
+    float: right;
+    margin: 20px;
+   position: absolute;
+   top:5px;
+   right:10px;
+ 
+}
+h1{
+    text-align: center;
+}
+header nav ul li{
+    display: inline;
+   
+    padding: 15px  40px;
+    list-style: hover;
+    background-color: gray;
+    border-radius: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+footer{
+    width: 10%;
+    height: 50px;
+    background-color:rgb(2, 18, 19); ;
+}
